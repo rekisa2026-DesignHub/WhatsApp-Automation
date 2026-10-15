@@ -1,0 +1,26 @@
+[
+  {
+    "content": "Remove /digital-tools routes and imports from App.js",
+    "status": "completed"
+  },
+  {
+    "content": "Remove Tools nav item, mobile link, and footer column from Layout.js",
+    "status": "completed"
+  },
+  {
+    "content": "Remove Digital Tools section + Tools pathway card + ToolsMockup import from Home.js",
+    "status": "completed"
+  },
+  {
+    "content": "Delete DigitalToolsOverview.js, ToolDetail.js, ToolsMockup.js, tools.js files",
+    "status": "completed"
+  },
+  {
+    "content": "Update PartnerDisclosure.js, SEO.js, About.js copy to remove 'curated tools' mentions",
+    "status": "completed"
+  },
+  {
+    "content": "Screenshot test - verify no dead links, layout intact",
+    "status": "completed"
+  }
+]
